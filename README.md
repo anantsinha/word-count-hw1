@@ -2,4 +2,7 @@
 
 ## Introduction
 
-> A simple API that greets the user when someone posts anything to the route /hello
+> A simple RESTFUL API
+> Sends count of characters, words and sentences of payload sent using a POST request
+> This API does not check if words are actual English words or not, all words entered will be correct is assumed
+> Responds to clients in JSON
